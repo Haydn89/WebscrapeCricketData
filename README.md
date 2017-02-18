@@ -12,4 +12,5 @@ used to update a local database (MongoDB) of cricket data for analysis.
 
 The author would like to acknowledge the code used in Richard Lawson's
 book entitled "Web Scraping with Python". This has proven to be an
-invaluable resource.
+invaluable resource. ESPNs comprehensive database on cricket statisitcs,
+without whom, this project would not be possible.
